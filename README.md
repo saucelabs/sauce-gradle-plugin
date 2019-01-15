@@ -1,3 +1,5 @@
+# DEPRECATED
+
 This project includes the source files for the Sauce Gradle helper library.
 
 To include the helper as part of your build, add the following to your build.gradle file:
